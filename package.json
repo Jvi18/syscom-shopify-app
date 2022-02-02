@@ -31,11 +31,12 @@
     "koa-bodyparser": "^4.3.0",
     "koa-cors": "^0.0.16",
     "koa-router": "^8.0.8",
+    "mysql": "^2.18.1",
     "next": "^10.2.0",
     "react": "^16.14.0",
     "react-apollo": "^3.1.5",
     "react-dom": "^16.14.0",
     "store-js": "^2.0.4",
-    "webpack": "^4.46.0"
+    "webpack": "^5.49.0"
   }
 }
